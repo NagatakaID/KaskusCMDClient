@@ -1,0 +1,11 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "stil/xpath-selector": "^2.0"
+  },
+  "autoload": {
+      "classmap": [
+          "./"
+      ]
+  }
+}
